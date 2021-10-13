@@ -1,0 +1,27 @@
+I"�<h2 id="question-1">Question 1</h2>
+
+<p>…content…</p>
+
+<h2 id="question-2">Question 2</h2>
+
+<p>First, we figured out the Game ID naming rules based on the API. Then we tested IDs and printed out JSON data on terminal.</p>
+
+<p>(Screenshot)</p>
+
+<p>Next, within Python code, it loops over the years and store data properly. The downloaded JSON files are categorized by game types and years. 
+JSON_data - regular_games - 2016
+                          |-2017
+          - playoffs</p>
+
+<h2 id="question-3">Question 3</h2>
+
+<p>…content…</p>
+
+<h2 id="question-4">Question 4</h2>
+
+<p>…content…</p>
+
+<h2 id="question-5">Question 5</h2>
+
+<h2 id="question-6">Question 6</h2>
+:ET
