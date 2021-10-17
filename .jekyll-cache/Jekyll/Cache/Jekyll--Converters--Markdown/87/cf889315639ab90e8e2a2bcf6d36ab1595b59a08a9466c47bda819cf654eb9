@@ -1,0 +1,49 @@
+I"p<h2 id="question-1">Question 1</h2>
+
+<p>…content…</p>
+
+<h2 id="question-2">Question 2</h2>
+
+<p>First, we figured out the Game ID naming rules based on the API. Then we tested IDs and printed out JSON data on terminal.</p>
+
+<p><img src="assets/q2_image_0.png" alt="screenshot" /></p>
+
+<p>Next, within Python code, it loops over the years and saves data properly. The downloaded JSON files are categorized by game types and years.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>JSON_data
+│
+└───regular_seasons
+│   └───2016
+│       │   2016020001.json
+│       │   ...
+│   
+└───playoffs
+│   └───2016
+│       │   2016030111.json
+│       |   ...
+</code></pre></div></div>
+
+<h2 id="question-3">Question 3</h2>
+<p><br />
+<img src="assets/q3.png" alt="screenshot" />
+<br />
+In this debug tool, user can select season from all year options, and select season from <code class="language-plaintext highlighter-rouge">regular_season</code> and <code class="language-plaintext highlighter-rouge">playoffs</code>. The tool finds out the game numbers and the event index, then adjusts the size of 
+<br /></p>
+
+<p>we used librares <code class="language-plaintext highlighter-rouge">ipywidget</code> and <code class="language-plaintext highlighter-rouge">matplotlib</code>.</p>
+
+<h2 id="question-4">Question 4</h2>
+
+<p>…content…</p>
+
+<h2 id="question-5">Question 5</h2>
+
+<h2 id="question-6">Question 6</h2>
+<p>To TA: we built this interactive graph using Dash, and then deployed it on Heroku, so it runs slowly. 
+<br />
+<a href="https://ift6758-q6.herokuapp.com/">Go to the site</a>
+<br />
+Please select ‘year’ and ‘team’ from the dropdown and wait for 10 seconds, then you’ll see the fancy graph! ;)</p>
+
+<iframe src="https://ift6758-q6.herokuapp.com/" width="1000" height="800">
+</iframe>
+:ET
