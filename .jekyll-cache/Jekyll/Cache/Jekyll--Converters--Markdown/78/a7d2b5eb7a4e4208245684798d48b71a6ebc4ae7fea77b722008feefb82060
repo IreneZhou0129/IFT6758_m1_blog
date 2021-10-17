@@ -1,0 +1,38 @@
+I"#<h2 id="question-1">Question 1</h2>
+
+<p>…content…</p>
+
+<h2 id="question-2">Question 2</h2>
+
+<p>First, we figured out the Game ID naming rules based on the API. Then we tested IDs and printed out JSON data on terminal.</p>
+
+<p><img src="assets/q2_image_0.png" alt="screenshot" /></p>
+
+<p>Next, within Python code, it loops over the years and saves data properly. The downloaded JSON files are categorized by game types and years.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>JSON_data
+│
+└───regular_seasons
+│   └───2016
+│       │   2016020001.json
+│       │   ...
+│   
+└───playoffs
+│   └───2016
+│       │   2016030111.json
+│       |   ...
+</code></pre></div></div>
+
+<h2 id="question-3">Question 3</h2>
+
+<p>…content…</p>
+
+<h2 id="question-4">Question 4</h2>
+
+<p>…content…</p>
+
+<h2 id="question-5">Question 5</h2>
+
+<h2 id="question-6">Question 6</h2>
+<iframe src="https://ift6758-q6.herokuapp.com/" width="500" height="400">
+</iframe>
+:ET
